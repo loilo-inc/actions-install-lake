@@ -5,5 +5,5 @@ inputs:
     description: "lake version to install"
     required: true
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'lib/index.js'
